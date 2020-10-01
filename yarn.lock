@@ -4355,10 +4355,10 @@ extsprintf@^1.2.0:
   resolved "https://registry.yarnpkg.com/extsprintf/-/extsprintf-1.4.0.tgz#e2689f8f356fad62cca65a3a91c5df5f9551692f"
   integrity sha1-4mifjzVvrWLMplo6kcXfX5VRaS8=
 
-fast-average-color@6.0.3:
-  version "6.0.3"
-  resolved "https://registry.yarnpkg.com/fast-average-color/-/fast-average-color-6.0.3.tgz#122fd276c57003b42c977258cafa2523ad45356e"
-  integrity sha512-T2FR3mfXGLnQ6Z+yscFrr376CiEnxw0Tz8XJH2Fj8CTTHOqEUYUC+RCbw3K9k7UhdzQTyxReClPTT3MPPwbBPA==
+fast-average-color@6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/fast-average-color/-/fast-average-color-6.1.0.tgz#8c4a3ecca052588f0ac04735ea6d544f5a02161e"
+  integrity sha512-M5h8BO4iD0QkEpnjBHa1bMak0pQXgAVfPaHHm4IPh0fNfsj0ZRbU/3aSJS4pFcTjSdTG3qjqMnZU+OEhWRQ0nw==
 
 fast-deep-equal@^3.1.1:
   version "3.1.3"
